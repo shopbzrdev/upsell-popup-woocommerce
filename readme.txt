@@ -11,6 +11,9 @@ Post purchase upsell popup for WooCommerce powered by BZR
 
 == Changelog ==
 
+= 1.0.3 = 
+* another empty update, ignore
+
 = 1.0.2 =
 * fix require relative path
 
