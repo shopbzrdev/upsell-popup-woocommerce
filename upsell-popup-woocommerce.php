@@ -3,13 +3,13 @@
 * Plugin Name: BZR Upsell Popup for WooCommerce
 * Plugin URI: https://shopbzr.com/
 * Description: Post purchase upsell popup for WooCommerce powered by BZR
-* Version: 1.0.1
+* Version: 1.0.2
 * Author: Rohail Altaf @ BZR Dev
 * Author URI: https://shopbzr.com/
 **/
 
 
-require './plugin-update-checker/plugin-update-checker.php';
+require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 	'https://raw.githubusercontent.com/shopbzrdev/upsell-popup-woocommerce/master/plugin.json',
 	__FILE__, //Full path to the main plugin file or functions.php.
