@@ -11,5 +11,8 @@ Post purchase upsell popup for WooCommerce powered by BZR
 
 == Changelog ==
 
+= 1.0.1 =
+* nothing changed, just testing the update mechanism in production
+
 = 1.0.0 =
 * initial release
